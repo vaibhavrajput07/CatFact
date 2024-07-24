@@ -1,4 +1,4 @@
-let url="https://catfact.ninja/fac";
+let url="https://catfact.ninja/fact";
 let btn=document.querySelector("button");
 
 btn.addEventListener("click",async(resolve,reject)=>{
