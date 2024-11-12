@@ -1,5 +1,3 @@
 # CatFact
-This is the my first project. I made this project by using HTML, CSS &amp; Java Script(by calling API). 
-This project is responsive on all devices.
-The use of this project is-
-it basically shows different "Intresting Fact's about Cat's".
+This is my first project. I made it using HTML, CSS, and JavaScript (by calling an API). This project is responsive on all devices.
+The purpose of this project is to display different 'Interesting Facts about Cats.
